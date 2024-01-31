@@ -6,7 +6,7 @@
 }
 body{
     min-height: 100vh;
-    background-image: linear-gradient(160deg,#662D8C ,#ED1E79);
+    background-image: linear-gradient(160deg,#774596 ,#974366);
 }
 .container{
     width: 400px;
@@ -17,7 +17,7 @@ body{
     transform: translate(-50%,-50%);
     border-radius: 15px;
     background-color: #F0FFFF;
-    background-image: linear-gradient(160deg,#EE9CA7 , #FFDDE1);
+    background-image: linear-gradient(160deg,#57727a ,#946e7e);
 }
 .container p{
     font-weight: 500;
@@ -45,7 +45,7 @@ body{
     cursor: pointer;
     margin: 20px 0;
     font-weight: 500;
-    background-image: linear-gradient(160deg,#662D8C ,#ED1E79);
+    background-image: linear-gradient(160deg,#6c3c89 ,#8e375b);
 }
 .qr{
     margin-left: 90px;
