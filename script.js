@@ -19,8 +19,8 @@ const generateQR = ()=>{
     }
 }
 
-input.addEventListener("keydown", (event) => {
+qrText.addEventListener("keydown", (event) => {
     if (event.key === "Enter") {
-        update();
+        generateQR();
     }
 });
